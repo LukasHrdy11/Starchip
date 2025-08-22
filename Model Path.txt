@@ -1,2 +1,0 @@
-Model Path
-/home/luk-hrd/.cache/huggingface/hub/models--mistralai--Mistral-7B-Instruct-v0.1/snapshots/2dcff66eac0c01dc50e4c41eea959968232187fe
